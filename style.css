@@ -104,7 +104,7 @@ margin-right:30px;
 }
 
 @media screen and (max-width:768px){
-.step-box3{
+.step-box3:last-child{
   margin-bottom:50px;
     }
   }
